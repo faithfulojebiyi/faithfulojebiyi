@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [faithfulojebiyi@gmail.com](mailto:faithfulojebiyi@gmail.com)
 - 😄 Pronouns: lolololollll
 - ⚡ Fun fact: I turn coffee to code and music keeps me going. I am a perfectionist
+![Visitor Count](https://profile-counter.glitch.me/faithfulojebiyi/count.svg)
