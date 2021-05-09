@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### My name is Faithful Ojebiyi. 
-I am an Embedded Software/Hardware developer transistioning into Software Development. 
-Well, i am not abandoning Hardware this is just another adventure for me. It's been awesome and challenging
+I am a framework agnostic software developer
 <!--
 **faithfulojebiyi/faithfulojebiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
