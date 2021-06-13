@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Multivendor E-commerce website (Vuejs, MongoDB, Python, Flask)
 - :bar_chart: I'm also working on a database management system with a mobile app for data capturing (Vuejs, Ionic-Vue, Capacitor, MongoDB, Expressjs, Nodejs)
-- :computer: My current devlopment stack is Vuejs, Nodejs, MongoDB, Expressjs, Python, Flask, Flutter
+- :computer: My current devlopment stack is Vuejs, Nodejs, MongoDB, Expressjs, Python, Flask, React
 - 🌱 I’m currently learning what needs to be learned to be a better software developer
 - 👯 I’m looking to collaborate on e-commerce projects
 - 💬 Ask me about anything not weird
