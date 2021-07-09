@@ -6,7 +6,7 @@ I am a framework-agnostic software developer
 Here are some ideas to get you started:
 -->
 
-- 🔭 Building awesome softwares and KVC
+- 🔭 Building awesome softwares at KVC
 - :bar_chart: I'm also working on a database management system with a mobile app for data capturing (Vuejs, Ionic-Vue, Capacitor, MongoDB, Expressjs, Nodejs)
 - :computer: My current devlopment stack is Vuejs, Nodejs, MongoDB, Expressjs, Python, Flask, React
 - 🌱 I’m currently learning what needs to be learned to be a better software developer
