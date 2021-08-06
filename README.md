@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 Building awesome softwares at KVC
 - :bar_chart: I love building dashboards
-- :computer: My current devlopment stack is Vuejs, Nodejs, MongoDB, Expressjs, Python, Flask, React
+- :computer: My current devlopment stack is React, Vuejs, Nextjs, Nuxt, Nodejs, MongoDB, Postgresql Expressjs, Python, Flask, 
 - 🌱 I’m currently learning what needs to be learned to be a better software developer
 - 👯 I’m looking to collaborate on e-commerce projects
 - 💬 Ask me about anything not weird
