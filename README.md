@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### My name is Faithful Ojebiyi. 
-I am a framework-agnostic software developer
+I am a framework-agnostic software developer; I help startups grow!
 <!--
 **faithfulojebiyi/faithfulojebiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
 - 🔭 Building awesome softwares at KVC
-- :bar_chart: I'm also working on a database management system with a mobile app for data capturing (Vuejs, Ionic-Vue, Capacitor, MongoDB, Expressjs, Nodejs)
+- :bar_chart: I love building dashboards
 - :computer: My current devlopment stack is Vuejs, Nodejs, MongoDB, Expressjs, Python, Flask, React
 - 🌱 I’m currently learning what needs to be learned to be a better software developer
 - 👯 I’m looking to collaborate on e-commerce projects
