@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :bar_chart: I love building dashboards
 - :computer: My current devlopment stack is React, Vuejs, Nextjs, Nuxt, Nodejs, MongoDB, Postgresql Expressjs, Python, Flask, 
 - 🌱 I’m currently learning what needs to be learned to be a better software developer
-- 👯 I’m looking to collaborate on e-commerce projects
+- 👯 I’m looking to collaborate on e-commerce and fintech projects
 - 💬 Ask me about anything not weird
 - 📫 How to reach me: [faithfulojebiyi@gmail.com](mailto:faithfulojebiyi@gmail.com)
 - 😄 Pronouns: lolololollll
