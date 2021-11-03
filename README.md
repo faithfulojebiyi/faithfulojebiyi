@@ -6,10 +6,10 @@ I am a framework-agnostic software developer; I help startups grow!
 Here are some ideas to get you started:
 -->
 
-- 🔭 Building awesome softwares at KVC
+- 🔭 Building awesome softwares at KVC,
 - :bar_chart: I love building dashboards
+- :🌱 I’m currently learning how to build D3Apps using blockchain
 - :computer: My current development stack is React, Vuejs, Nextjs, Nuxt, Nodejs, MongoDB, PostgreSQL, MySQL Expressjs, Python, Flask, 
-- 🌱 I’m currently learning what needs to be learned to be a better software developer
 - 👯 I’m looking to collaborate on e-commerce and fintech projects
 - 💬 Ask me about anything not weird
 - 📫 How to reach me: [faithfulojebiyi@gmail.com](mailto:faithfulojebiyi@gmail.com)
